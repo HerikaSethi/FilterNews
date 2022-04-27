@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApiFilterTest</string>
+    <string name="news_app">News App</string>
+    <string name="categories">Categories</string>
+    <string name="sub_heading">sub heading</string>
+    <string name="news_heading">News Heading</string>
+    <string name="filter_by_n_category">Filter by\n category</string>
+    <string name="back">BACK</string>
+</resources>
